@@ -1,0 +1,101 @@
+vehicule_id,type_transport,nom_compagnie,capacite,status,consomation
+VEH_000,Bus,Aftu,60,guarer,Electric
+VEH_001,Taxi,Dakar Dem Dikk,4,en service,Essence
+VEH_002,Bus,Aftu,60,guarer,Electric
+VEH_003,Bus,Aftu,60,en service,Diesel
+VEH_004,Taxi,Aftu,4,guarer,Diesel
+VEH_005,Car rapide,Dakar Dem Dikk,25,en panne ,Essence
+VEH_006,Train,Aftu,500,en service,Essence
+VEH_007,Car rapide,Ter,25,en panne ,Diesel
+VEH_008,Taxi,Ter,4,en service,Diesel
+VEH_009,Car rapide,Aftu,25,en panne ,Electric
+VEH_010,Train,Aftu,500,guarer,Electric
+VEH_011,Bus,Brt,60,en service,Essence
+VEH_012,Train,Ter,500,guarer,Diesel
+VEH_013,Bus,Aftu,60,guarer,Diesel
+VEH_014,Train,Aftu,500,en service,Diesel
+VEH_015,Car rapide,Ter,25,en panne ,Essence
+VEH_016,Train,Dakar Dem Dikk,500,en panne ,Electric
+VEH_017,Taxi,Ter,4,guarer,Essence
+VEH_018,Bus,Dakar Dem Dikk,60,guarer,Essence
+VEH_019,Taxi,Dakar Dem Dikk,4,en panne ,Electric
+VEH_020,Train,Dakar Dem Dikk,500,guarer,Electric
+VEH_021,Bus,Dakar Dem Dikk,60,en service,Electric
+VEH_022,Car rapide,Ter,25,en service,Diesel
+VEH_023,Train,Dakar Dem Dikk,500,guarer,Electric
+VEH_024,Car rapide,Brt,25,en service,Electric
+VEH_025,Taxi,Dakar Dem Dikk,4,guarer,Essence
+VEH_026,Train,Brt,500,guarer,Electric
+VEH_027,Train,Dakar Dem Dikk,500,en service,Essence
+VEH_028,Car rapide,Aftu,25,en service,Diesel
+VEH_029,Taxi,Dakar Dem Dikk,4,guarer,Electric
+VEH_030,Bus,Brt,60,en panne ,Essence
+VEH_031,Car rapide,Ter,25,guarer,Diesel
+VEH_032,Bus,Ter,60,guarer,Electric
+VEH_033,Bus,Ter,60,en panne ,Diesel
+VEH_034,Car rapide,Aftu,25,guarer,Essence
+VEH_035,Train,Dakar Dem Dikk,500,guarer,Diesel
+VEH_036,Train,Dakar Dem Dikk,500,en service,Electric
+VEH_037,Taxi,Aftu,4,guarer,Electric
+VEH_038,Car rapide,Aftu,25,en service,Electric
+VEH_039,Train,Dakar Dem Dikk,500,en service,Diesel
+VEH_040,Bus,Aftu,60,guarer,Electric
+VEH_041,Bus,Dakar Dem Dikk,60,en service,Essence
+VEH_042,Car rapide,Dakar Dem Dikk,25,en panne ,Essence
+VEH_043,Car rapide,Dakar Dem Dikk,25,guarer,Essence
+VEH_044,Taxi,Ter,4,en panne ,Essence
+VEH_045,Train,Brt,500,guarer,Electric
+VEH_046,Bus,Dakar Dem Dikk,60,en service,Diesel
+VEH_047,Train,Aftu,500,guarer,Essence
+VEH_048,Taxi,Dakar Dem Dikk,4,en service,Diesel
+VEH_049,Bus,Dakar Dem Dikk,60,en service,Diesel
+VEH_050,Train,Aftu,500,guarer,Diesel
+VEH_051,Train,Brt,500,en service,Essence
+VEH_052,Taxi,Brt,4,en service,Electric
+VEH_053,Car rapide,Dakar Dem Dikk,25,en service,Diesel
+VEH_054,Car rapide,Ter,25,en panne ,Electric
+VEH_055,Car rapide,Aftu,25,guarer,Essence
+VEH_056,Bus,Aftu,60,en panne ,Essence
+VEH_057,Train,Aftu,500,en service,Diesel
+VEH_058,Taxi,Brt,4,en service,Electric
+VEH_059,Taxi,Ter,4,en panne ,Diesel
+VEH_060,Bus,Brt,60,guarer,Diesel
+VEH_061,Bus,Aftu,60,en service,Diesel
+VEH_062,Taxi,Brt,4,en panne ,Electric
+VEH_063,Taxi,Brt,4,en service,Diesel
+VEH_064,Car rapide,Aftu,25,en panne ,Electric
+VEH_065,Car rapide,Ter,25,en panne ,Essence
+VEH_066,Car rapide,Dakar Dem Dikk,25,en service,Electric
+VEH_067,Taxi,Aftu,4,guarer,Essence
+VEH_068,Bus,Ter,60,en service,Diesel
+VEH_069,Car rapide,Dakar Dem Dikk,25,en service,Essence
+VEH_070,Bus,Dakar Dem Dikk,60,en service,Essence
+VEH_071,Bus,Dakar Dem Dikk,60,en panne ,Diesel
+VEH_072,Taxi,Aftu,4,guarer,Diesel
+VEH_073,Car rapide,Ter,25,en panne ,Diesel
+VEH_074,Train,Dakar Dem Dikk,500,en panne ,Electric
+VEH_075,Taxi,Ter,4,en panne ,Electric
+VEH_076,Bus,Aftu,60,en panne ,Essence
+VEH_077,Bus,Aftu,60,guarer,Diesel
+VEH_078,Train,Dakar Dem Dikk,500,en panne ,Diesel
+VEH_079,Taxi,Ter,4,en panne ,Diesel
+VEH_080,Car rapide,Ter,25,guarer,Essence
+VEH_081,Bus,Ter,60,guarer,Diesel
+VEH_082,Taxi,Ter,4,en service,Diesel
+VEH_083,Taxi,Ter,4,en panne ,Essence
+VEH_084,Taxi,Ter,4,en service,Essence
+VEH_085,Train,Brt,500,en panne ,Diesel
+VEH_086,Bus,Brt,60,en panne ,Diesel
+VEH_087,Bus,Ter,60,en service,Essence
+VEH_088,Train,Dakar Dem Dikk,500,guarer,Electric
+VEH_089,Car rapide,Aftu,25,en service,Diesel
+VEH_090,Taxi,Aftu,4,en panne ,Essence
+VEH_091,Taxi,Brt,4,en service,Diesel
+VEH_092,Train,Ter,500,en service,Electric
+VEH_093,Taxi,Dakar Dem Dikk,4,guarer,Diesel
+VEH_094,Train,Brt,500,guarer,Essence
+VEH_095,Taxi,Dakar Dem Dikk,4,en service,Diesel
+VEH_096,Car rapide,Aftu,25,en service,Essence
+VEH_097,Train,Brt,500,guarer,Essence
+VEH_098,Taxi,Ter,4,en service,Essence
+VEH_099,Bus,Brt,60,en service,Electric

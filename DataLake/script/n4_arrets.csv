@@ -1,0 +1,16 @@
+stop_id,name,latitude,longitude,zone,shelter
+STOP_001,Face Team,14.762789,-17.4695,Zone Nord,False
+STOP_002,Claim Soldier,14.754898,-17.467209,Zone Nord,True
+STOP_003,Oil Attention,14.763534,-17.452156,Zone Nord,True
+STOP_004,Present Action,14.76181,-17.469364,Zone Nord,True
+STOP_005,Class Between,14.754373,-17.459893,Zone Nord,True
+STOP_006,Each Draw,14.701225,-17.44568,Centre-ville,False
+STOP_007,Treat Major,14.694409,-17.448215,Centre-ville,True
+STOP_008,Animal Sport,14.705176,-17.456807,Centre-ville,False
+STOP_009,Ball Whom,14.696805,-17.45689,Centre-ville,False
+STOP_010,Thought Difficult,14.692044,-17.452401,Centre-ville,False
+STOP_011,About Instead,14.64695,-17.467925,Zone Sud,True
+STOP_012,Happen Nearly,14.644595,-17.469275,Zone Sud,False
+STOP_013,Central Be,14.631576,-17.474136,Zone Sud,False
+STOP_014,Cost Loss,14.641547,-17.465909,Zone Sud,True
+STOP_015,One Form,14.643225,-17.464539,Zone Sud,True

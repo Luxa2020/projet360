@@ -1,0 +1,3 @@
+# Sauvegarde d'un fichier compatible avec Kepler.gl
+df_kepler = df[["longitude", "latitude", "timestamp", "vehicule_id", "speed_kmh", "traffic_level"]]
+df_kepler.to_csv("kepler_data.csv", index=False)

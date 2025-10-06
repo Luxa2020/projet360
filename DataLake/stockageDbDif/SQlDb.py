@@ -1,5 +1,7 @@
 import mysql.connector
 import pandas as pd
+import pymysql
+pymysql.install_as_MySQLdb()
 
 # Lecture du fichier CSV
 df = pd.read_csv("transport_com.csv")

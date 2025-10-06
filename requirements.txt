@@ -110,4 +110,5 @@ pandas
 numpy
 geopy
 plotly
+mysql-connector-python
 

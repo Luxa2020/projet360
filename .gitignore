@@ -1,15 +1,15 @@
-# Ignorer données MySQL
+# Ignorer les  données MySQL
 mysql/data/
 
-# Ignorer données PostgreSQL
+# Ignorer les données PostgreSQL
 warehouse/pgdata/
 
-# Ignorer données HDFS
+# Ignorer les données HDFS
 hdfs/
 
-# Ignorer données MongoDB
+# Ignorer les données MongoDB
 datalake/mongo-data/
 
-# Ignorer fichiers temporaires
+# Ignorer les fichiers temporaires
 *.log
 *.tmp

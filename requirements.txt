@@ -105,6 +105,9 @@ xyzservices==2025.4.0
 streamlit
 folium
 streamlit-folium
-geopy
+streamlit-autorefresh
+pandas
 numpy
+geopy
 plotly
+

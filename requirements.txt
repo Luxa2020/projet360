@@ -111,4 +111,5 @@ numpy
 geopy
 plotly
 mysql-connector-python
+pymysql
 
